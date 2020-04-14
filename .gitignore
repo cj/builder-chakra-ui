@@ -1,0 +1,5 @@
+.*
+# Allowed Configs
+!.prettierrc
+!.gitignore
+!.eslintrc.js
